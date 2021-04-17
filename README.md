@@ -1,2 +1,0 @@
-# lzc.github.io
-blog
